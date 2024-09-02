@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ad7a2e5517686cfdb938555933d3c90ed9f054")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
