@@ -1,0 +1,9 @@
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\bin\Debug\netcoreapp3.1\EFCore.Application.Contracts.deps.json
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\bin\Debug\netcoreapp3.1\EFCore.Application.Contracts.dll
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\bin\Debug\netcoreapp3.1\EFCore.Application.Contracts.pdb
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\obj\Debug\netcoreapp3.1\EFCore.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\obj\Debug\netcoreapp3.1\EFCore.Application.Contracts.AssemblyInfoInputs.cache
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\obj\Debug\netcoreapp3.1\EFCore.Application.Contracts.AssemblyInfo.cs
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\obj\Debug\netcoreapp3.1\EFCore.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\obj\Debug\netcoreapp3.1\EFCore.Application.Contracts.dll
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application.Contracts\obj\Debug\netcoreapp3.1\EFCore.Application.Contracts.pdb

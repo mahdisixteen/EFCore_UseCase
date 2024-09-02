@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EFCore.Infrastructure.EFCore
+build_property.ProjectDir = D:\Programming\test asp .net\EFCore_UseCase\EFCore.Infrastructure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

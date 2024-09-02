@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">لیست گروه محصولات</h1>
+    <p><a asp-page="./Create" class="btn btn-success">ایجاد جدید</a></p>
+
+
+
+    <table class="table table-bordered table-striped">
+        <thead>
+        <tr>
+            <td>#</td>
+            <td>نام</td>
+            <td>تاریخ ایجاد</td>
+            <td>عملیات</td>
+        </tr>
+        </thead>
+        
+        <tbody>
+      
+        @foreach (var i in Model.ProductCategories)
+        {
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.Name</td>
+                <td>@i.CreationDate</td>
+                <td><a asp-page="./Edit" class="btn btn-success" asp-route-id="@i.Id">ویرایش</a></td>
+            </tr>
+        }
+        </tbody>
+
+    </table>
+
+</div>

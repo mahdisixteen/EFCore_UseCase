@@ -1,0 +1,15 @@
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Application.deps.json
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Application.dll
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Application.pdb
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Application.Contracts.dll
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Domain.dll
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Application.Contracts.pdb
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\bin\Debug\netcoreapp3.1\EFCore.Domain.pdb
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.csproj.AssemblyReference.cache
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.AssemblyInfoInputs.cache
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.AssemblyInfo.cs
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.csproj.CoreCompileInputs.cache
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.A.E13B0838.Up2Date
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.dll
+D:\Programming\test asp .net\EFCore_UseCase\EFCore.Application\obj\Debug\netcoreapp3.1\EFCore.Application.pdb

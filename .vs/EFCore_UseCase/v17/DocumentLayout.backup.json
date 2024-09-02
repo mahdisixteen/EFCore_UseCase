@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\test asp .net\\EFCore_UseCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4700FE7A-1BB5-426A-978A-EFB3660F4E3A}|EFCore.Infrastructure\\EFCore.Infrastructure.EFCore.csproj|d:\\programming\\test asp .net\\efcore_usecase\\efcore.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4700FE7A-1BB5-426A-978A-EFB3660F4E3A}|EFCore.Infrastructure\\EFCore.Infrastructure.EFCore.csproj|solutionrelative:efcore.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF6BD0-496A-428E-8032-658780C98F34}|EFCore.Domain\\EFCore.Domain.csproj|d:\\programming\\test asp .net\\efcore_usecase\\efcore.domain\\productagg\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF6BD0-496A-428E-8032-658780C98F34}|EFCore.Domain\\EFCore.Domain.csproj|solutionrelative:efcore.domain\\productagg\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8EBED6-5035-48C9-B478-75D0D0077D43}|EFCore.Application.Contracts\\EFCore.Application.Contracts.csproj|d:\\programming\\test asp .net\\efcore_usecase\\efcore.application.contracts\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8EBED6-5035-48C9-B478-75D0D0077D43}|EFCore.Application.Contracts\\EFCore.Application.Contracts.csproj|solutionrelative:efcore.application.contracts\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40E87F5-87E9-445D-AA50-2886589970EB}|EFCore.Application\\EFCore.Application.csproj|d:\\programming\\test asp .net\\efcore_usecase\\efcore.application\\productapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40E87F5-87E9-445D-AA50-2886589970EB}|EFCore.Application\\EFCore.Application.csproj|solutionrelative:efcore.application\\productapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DF6BD0-496A-428E-8032-658780C98F34}|EFCore.Domain\\EFCore.Domain.csproj|d:\\programming\\test asp .net\\efcore_usecase\\efcore.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DF6BD0-496A-428E-8032-658780C98F34}|EFCore.Domain\\EFCore.Domain.csproj|solutionrelative:efcore.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8EBED6-5035-48C9-B478-75D0D0077D43}|EFCore.Application.Contracts\\EFCore.Application.Contracts.csproj|d:\\programming\\test asp .net\\efcore_usecase\\efcore.application.contracts\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8EBED6-5035-48C9-B478-75D0D0077D43}|EFCore.Application.Contracts\\EFCore.Application.Contracts.csproj|solutionrelative:efcore.application.contracts\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "EFCore.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ToolTip": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeToolTip": "EFCore.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:58:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Domain\\ProductAgg\\Product.cs",
+              "RelativeDocumentMoniker": "EFCore.Domain\\ProductAgg\\Product.cs",
+              "ToolTip": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Domain\\ProductAgg\\Product.cs",
+              "RelativeToolTip": "EFCore.Domain\\ProductAgg\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:01:00.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Application.Contracts\\Product\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "EFCore.Application.Contracts\\Product\\ProductViewModel.cs",
+              "ToolTip": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Application.Contracts\\Product\\ProductViewModel.cs",
+              "RelativeToolTip": "EFCore.Application.Contracts\\Product\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:58:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EFCore.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "EFCore.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:58:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductApplication.cs",
+              "DocumentMoniker": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Application\\ProductApplication.cs",
+              "RelativeDocumentMoniker": "EFCore.Application\\ProductApplication.cs",
+              "ToolTip": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Application\\ProductApplication.cs",
+              "RelativeToolTip": "EFCore.Application\\ProductApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:57:35.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Application.Contracts\\Product\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "EFCore.Application.Contracts\\Product\\CreateProduct.cs",
+              "ToolTip": "D:\\Programming\\test asp .net\\EFCore_UseCase\\EFCore.Application.Contracts\\Product\\CreateProduct.cs",
+              "RelativeToolTip": "EFCore.Application.Contracts\\Product\\CreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:57:24.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

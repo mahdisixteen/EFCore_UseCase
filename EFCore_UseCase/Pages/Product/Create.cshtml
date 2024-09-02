@@ -1,0 +1,28 @@
+﻿@page
+@model CreateModel
+@{
+}
+<div class="text-center">
+    <form method="post">
+        <div class="row">
+            <div class="col-md-6">
+                <label for="name">نام : </label>
+                <input class="form-control" type="text" name="name"/>
+            </div>
+            <div class="col-md-6">
+                <label for="unitPrice">قیمت : </label>
+                <input class="form-control" type="number" name="unitPrice" id="unitPrice" />
+            </div>
+            <div class="col-md-6">
+                <label for="category">گروه : </label>
+                <select name="category" id="category" asp-items="@Model.ProductCategories" class="form-control">
+                    <option value="0">گروه محصول را انتخاب کنید</option>
+                </select>
+            </div>
+            <div class="col-md-12">
+                <button class="btn btn-outline-success">ایجاد</button>
+            </div>
+        </div>
+    </form>
+
+</div>
